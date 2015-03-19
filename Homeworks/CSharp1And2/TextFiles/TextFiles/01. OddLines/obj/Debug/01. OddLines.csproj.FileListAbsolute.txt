@@ -1,0 +1,6 @@
+D:\Dropbox\C#\TextFiles\TextFiles\01. OddLines\bin\Debug\_01.OddLines.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\01. OddLines\bin\Debug\_01.OddLines.exe
+D:\Dropbox\C#\TextFiles\TextFiles\01. OddLines\bin\Debug\_01.OddLines.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\01. OddLines\obj\Debug\01. OddLines.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\TextFiles\TextFiles\01. OddLines\obj\Debug\_01.OddLines.exe
+D:\Dropbox\C#\TextFiles\TextFiles\01. OddLines\obj\Debug\_01.OddLines.pdb

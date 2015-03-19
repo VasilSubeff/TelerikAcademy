@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\06. String length\bin\Debug\_06.String_length.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\06. String length\bin\Debug\_06.String_length.exe
+D:\Dropbox\C#\StringsAndTextProcessing\06. String length\bin\Debug\_06.String_length.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\06. String length\obj\Debug\06. String length.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\06. String length\obj\Debug\_06.String_length.exe
+D:\Dropbox\C#\StringsAndTextProcessing\06. String length\obj\Debug\_06.String_length.pdb

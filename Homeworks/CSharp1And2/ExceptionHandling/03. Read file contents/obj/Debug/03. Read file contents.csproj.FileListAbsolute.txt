@@ -1,0 +1,5 @@
+D:\Dropbox\C#\ExceptionHandling\03. Read file contents\bin\Debug\_03.Read_file_contents.exe.config
+D:\Dropbox\C#\ExceptionHandling\03. Read file contents\bin\Debug\_03.Read_file_contents.exe
+D:\Dropbox\C#\ExceptionHandling\03. Read file contents\bin\Debug\_03.Read_file_contents.pdb
+D:\Dropbox\C#\ExceptionHandling\03. Read file contents\obj\Debug\_03.Read_file_contents.exe
+D:\Dropbox\C#\ExceptionHandling\03. Read file contents\obj\Debug\_03.Read_file_contents.pdb

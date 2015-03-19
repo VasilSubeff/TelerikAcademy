@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Methods\07. ReverseNumber\bin\Debug\_07.ReverseNumber.exe.config
+D:\Dropbox\C#\Methods\07. ReverseNumber\bin\Debug\_07.ReverseNumber.exe
+D:\Dropbox\C#\Methods\07. ReverseNumber\bin\Debug\_07.ReverseNumber.pdb
+D:\Dropbox\C#\Methods\07. ReverseNumber\obj\Debug\07. ReverseNumber.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Methods\07. ReverseNumber\obj\Debug\_07.ReverseNumber.exe
+D:\Dropbox\C#\Methods\07. ReverseNumber\obj\Debug\_07.ReverseNumber.pdb

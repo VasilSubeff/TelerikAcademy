@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Loops\06. Loops\17. GDC\bin\Debug\_17.GDC.exe.config
+D:\Dropbox\C#\Loops\06. Loops\17. GDC\bin\Debug\_17.GDC.exe
+D:\Dropbox\C#\Loops\06. Loops\17. GDC\bin\Debug\_17.GDC.pdb
+D:\Dropbox\C#\Loops\06. Loops\17. GDC\obj\Debug\_17.GDC.exe
+D:\Dropbox\C#\Loops\06. Loops\17. GDC\obj\Debug\_17.GDC.pdb

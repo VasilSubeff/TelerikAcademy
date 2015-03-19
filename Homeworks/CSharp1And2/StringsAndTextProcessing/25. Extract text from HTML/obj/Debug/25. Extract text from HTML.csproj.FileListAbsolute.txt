@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\25. Extract text from HTML\bin\Debug\_25.Extract_text_from_HTML.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\25. Extract text from HTML\bin\Debug\_25.Extract_text_from_HTML.exe
+D:\Dropbox\C#\StringsAndTextProcessing\25. Extract text from HTML\bin\Debug\_25.Extract_text_from_HTML.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\25. Extract text from HTML\obj\Debug\_25.Extract_text_from_HTML.exe
+D:\Dropbox\C#\StringsAndTextProcessing\25. Extract text from HTML\obj\Debug\_25.Extract_text_from_HTML.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\25. Extract text from HTML\obj\Debug\25. Extract text from HTML.csprojResolveAssemblyReference.cache

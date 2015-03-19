@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Loops\06. Loops\15. HexadecimalToDecimalNumber\bin\Debug\_15.HexadecimalToDecimalNumber.exe.config
+D:\Dropbox\C#\Loops\06. Loops\15. HexadecimalToDecimalNumber\bin\Debug\_15.HexadecimalToDecimalNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\15. HexadecimalToDecimalNumber\bin\Debug\_15.HexadecimalToDecimalNumber.pdb
+D:\Dropbox\C#\Loops\06. Loops\15. HexadecimalToDecimalNumber\obj\Debug\_15.HexadecimalToDecimalNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\15. HexadecimalToDecimalNumber\obj\Debug\_15.HexadecimalToDecimalNumber.pdb

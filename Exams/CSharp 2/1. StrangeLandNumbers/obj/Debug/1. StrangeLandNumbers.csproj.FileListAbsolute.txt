@@ -1,0 +1,9 @@
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. StrangeLandNumbers\bin\Debug\_1.StrangeLandNumbers.exe.config
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. StrangeLandNumbers\bin\Debug\_1.StrangeLandNumbers.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. StrangeLandNumbers\bin\Debug\_1.StrangeLandNumbers.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. StrangeLandNumbers\obj\Debug\1. StrangeLandNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. StrangeLandNumbers\obj\Debug\_1.StrangeLandNumbers.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. StrangeLandNumbers\obj\Debug\_1.StrangeLandNumbers.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. StrangeLandNumbers\bin\Debug\_1.StrangeLandNumbers.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. StrangeLandNumbers\obj\Debug\_1.StrangeLandNumbers.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. StrangeLandNumbers\obj\Debug\_1.StrangeLandNumbers.pdb

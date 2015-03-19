@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Methods\06. FirstLargerThanNeighbours\bin\Debug\_06.FirstLargerThanNeighbours.exe.config
+D:\Dropbox\C#\Methods\06. FirstLargerThanNeighbours\bin\Debug\_06.FirstLargerThanNeighbours.exe
+D:\Dropbox\C#\Methods\06. FirstLargerThanNeighbours\bin\Debug\_06.FirstLargerThanNeighbours.pdb
+D:\Dropbox\C#\Methods\06. FirstLargerThanNeighbours\obj\Debug\_06.FirstLargerThanNeighbours.exe
+D:\Dropbox\C#\Methods\06. FirstLargerThanNeighbours\obj\Debug\_06.FirstLargerThanNeighbours.pdb

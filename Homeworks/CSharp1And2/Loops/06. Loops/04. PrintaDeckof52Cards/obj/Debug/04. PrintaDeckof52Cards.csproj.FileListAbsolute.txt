@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Loops\06. Loops\04. PrintaDeckof52Cards\bin\Debug\_04.PrintaDeckof52Cards.exe.config
+D:\Dropbox\C#\Loops\06. Loops\04. PrintaDeckof52Cards\bin\Debug\_04.PrintaDeckof52Cards.exe
+D:\Dropbox\C#\Loops\06. Loops\04. PrintaDeckof52Cards\bin\Debug\_04.PrintaDeckof52Cards.pdb
+D:\Dropbox\C#\Loops\06. Loops\04. PrintaDeckof52Cards\obj\Debug\_04.PrintaDeckof52Cards.exe
+D:\Dropbox\C#\Loops\06. Loops\04. PrintaDeckof52Cards\obj\Debug\_04.PrintaDeckof52Cards.pdb

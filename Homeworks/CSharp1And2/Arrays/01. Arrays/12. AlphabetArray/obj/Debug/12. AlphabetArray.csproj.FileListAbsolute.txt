@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Arrays\01. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.exe
+D:\Dropbox\C#\Arrays\01. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.exe
+D:\Dropbox\C#\Arrays\01. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\12. AlphabetArray\obj\Debug\12. AlphabetArray.csprojResolveAssemblyReference.cache

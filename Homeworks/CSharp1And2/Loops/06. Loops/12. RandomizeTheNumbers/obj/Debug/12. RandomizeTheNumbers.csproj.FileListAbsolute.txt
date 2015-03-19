@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\12. RandomizeTheNumbers\bin\Debug\_12.RandomizeTheNumbers.exe.config
+D:\Dropbox\C#\Loops\06. Loops\12. RandomizeTheNumbers\bin\Debug\_12.RandomizeTheNumbers.exe
+D:\Dropbox\C#\Loops\06. Loops\12. RandomizeTheNumbers\bin\Debug\_12.RandomizeTheNumbers.pdb
+D:\Dropbox\C#\Loops\06. Loops\12. RandomizeTheNumbers\obj\Debug\12. RandomizeTheNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Loops\06. Loops\12. RandomizeTheNumbers\obj\Debug\_12.RandomizeTheNumbers.exe
+D:\Dropbox\C#\Loops\06. Loops\12. RandomizeTheNumbers\obj\Debug\_12.RandomizeTheNumbers.pdb

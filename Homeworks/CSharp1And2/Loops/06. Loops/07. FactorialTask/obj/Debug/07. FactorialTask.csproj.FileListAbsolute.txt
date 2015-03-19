@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\07. FactorialTask\bin\Debug\_07.FactorialTask.exe.config
+D:\Dropbox\C#\Loops\06. Loops\07. FactorialTask\bin\Debug\_07.FactorialTask.exe
+D:\Dropbox\C#\Loops\06. Loops\07. FactorialTask\bin\Debug\_07.FactorialTask.pdb
+D:\Dropbox\C#\Loops\06. Loops\07. FactorialTask\obj\Debug\_07.FactorialTask.exe
+D:\Dropbox\C#\Loops\06. Loops\07. FactorialTask\obj\Debug\_07.FactorialTask.pdb
+D:\Dropbox\C#\Loops\06. Loops\07. FactorialTask\obj\Debug\07. FactorialTask.csprojResolveAssemblyReference.cache

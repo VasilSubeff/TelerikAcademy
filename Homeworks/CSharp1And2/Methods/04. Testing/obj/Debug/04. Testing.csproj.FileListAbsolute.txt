@@ -1,0 +1,7 @@
+D:\Dropbox\C#\Methods\04. Testing\obj\Debug\04. Testing.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Methods\04. Testing\bin\Debug\_04.Testing.dll
+D:\Dropbox\C#\Methods\04. Testing\bin\Debug\_04.Testing.pdb
+D:\Dropbox\C#\Methods\04. Testing\bin\Debug\_04.AppearanceCount.exe
+D:\Dropbox\C#\Methods\04. Testing\bin\Debug\_04.AppearanceCount.pdb
+D:\Dropbox\C#\Methods\04. Testing\obj\Debug\_04.Testing.dll
+D:\Dropbox\C#\Methods\04. Testing\obj\Debug\_04.Testing.pdb

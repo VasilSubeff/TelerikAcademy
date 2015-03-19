@@ -1,0 +1,5 @@
+D:\Dropbox\C#\StringsAndTextProcessing\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.exe
+D:\Dropbox\C#\StringsAndTextProcessing\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\17. Date in Bulgarian\obj\Debug\_17.Date_in_Bulgarian.exe
+D:\Dropbox\C#\StringsAndTextProcessing\17. Date in Bulgarian\obj\Debug\_17.Date_in_Bulgarian.pdb

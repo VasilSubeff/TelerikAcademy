@@ -1,0 +1,5 @@
+D:\Dropbox\C#\StringsAndTextProcessing\24. Order words\bin\Debug\_24.Order_words.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\24. Order words\bin\Debug\_24.Order_words.exe
+D:\Dropbox\C#\StringsAndTextProcessing\24. Order words\bin\Debug\_24.Order_words.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\24. Order words\obj\Debug\_24.Order_words.exe
+D:\Dropbox\C#\StringsAndTextProcessing\24. Order words\obj\Debug\_24.Order_words.pdb

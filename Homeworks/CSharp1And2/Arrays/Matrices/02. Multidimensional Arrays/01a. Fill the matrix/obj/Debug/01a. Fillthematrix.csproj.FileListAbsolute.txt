@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\01a. Fill the matrix\bin\Debug\_01a.Fill_the_matrix.exe.config
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\01a. Fill the matrix\bin\Debug\_01a.Fill_the_matrix.exe
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\01a. Fill the matrix\bin\Debug\_01a.Fill_the_matrix.pdb
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\01a. Fill the matrix\obj\Debug\01a. Fillthematrix.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\01a. Fill the matrix\obj\Debug\_01a.Fill_the_matrix.exe
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\01a. Fill the matrix\obj\Debug\_01a.Fill_the_matrix.pdb

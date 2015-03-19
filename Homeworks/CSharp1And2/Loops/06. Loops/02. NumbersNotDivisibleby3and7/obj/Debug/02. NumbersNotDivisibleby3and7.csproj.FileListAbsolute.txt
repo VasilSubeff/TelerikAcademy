@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\02. NumbersNotDivisibleby3and7\bin\Debug\_02.NumbersNotDivisibleby3and7.exe.config
+D:\Dropbox\C#\Loops\06. Loops\02. NumbersNotDivisibleby3and7\bin\Debug\_02.NumbersNotDivisibleby3and7.exe
+D:\Dropbox\C#\Loops\06. Loops\02. NumbersNotDivisibleby3and7\bin\Debug\_02.NumbersNotDivisibleby3and7.pdb
+D:\Dropbox\C#\Loops\06. Loops\02. NumbersNotDivisibleby3and7\obj\Debug\02. NumbersNotDivisibleby3and7.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Loops\06. Loops\02. NumbersNotDivisibleby3and7\obj\Debug\_02.NumbersNotDivisibleby3and7.exe
+D:\Dropbox\C#\Loops\06. Loops\02. NumbersNotDivisibleby3and7\obj\Debug\_02.NumbersNotDivisibleby3and7.pdb

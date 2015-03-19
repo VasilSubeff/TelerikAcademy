@@ -1,0 +1,5 @@
+D:\Dropbox\C#\NumeralSystems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe.config
+D:\Dropbox\C#\NumeralSystems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe
+D:\Dropbox\C#\NumeralSystems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.pdb
+D:\Dropbox\C#\NumeralSystems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.exe
+D:\Dropbox\C#\NumeralSystems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\C#\TextFiles\TextFiles\12. RemoveWords\bin\Debug\_12.RemoveWords.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\12. RemoveWords\bin\Debug\_12.RemoveWords.exe
+D:\Dropbox\C#\TextFiles\TextFiles\12. RemoveWords\bin\Debug\_12.RemoveWords.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\12. RemoveWords\obj\Debug\_12.RemoveWords.exe
+D:\Dropbox\C#\TextFiles\TextFiles\12. RemoveWords\obj\Debug\_12.RemoveWords.pdb

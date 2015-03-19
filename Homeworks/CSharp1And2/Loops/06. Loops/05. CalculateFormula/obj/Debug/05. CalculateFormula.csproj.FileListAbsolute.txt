@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\05. CalculateFormula\bin\Debug\_05.CalculateFormula.exe.config
+D:\Dropbox\C#\Loops\06. Loops\05. CalculateFormula\bin\Debug\_05.CalculateFormula.exe
+D:\Dropbox\C#\Loops\06. Loops\05. CalculateFormula\bin\Debug\_05.CalculateFormula.pdb
+D:\Dropbox\C#\Loops\06. Loops\05. CalculateFormula\obj\Debug\05. CalculateFormula.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Loops\06. Loops\05. CalculateFormula\obj\Debug\_05.CalculateFormula.exe
+D:\Dropbox\C#\Loops\06. Loops\05. CalculateFormula\obj\Debug\_05.CalculateFormula.pdb

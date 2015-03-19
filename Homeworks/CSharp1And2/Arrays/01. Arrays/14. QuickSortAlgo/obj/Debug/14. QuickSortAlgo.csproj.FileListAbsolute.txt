@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Arrays\01. Arrays\14. QuickSortAlgo\bin\Debug\_14.QuickSortAlgo.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\14. QuickSortAlgo\bin\Debug\_14.QuickSortAlgo.exe
+D:\Dropbox\C#\Arrays\01. Arrays\14. QuickSortAlgo\bin\Debug\_14.QuickSortAlgo.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\14. QuickSortAlgo\obj\Debug\14. QuickSortAlgo.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Arrays\01. Arrays\14. QuickSortAlgo\obj\Debug\_14.QuickSortAlgo.exe
+D:\Dropbox\C#\Arrays\01. Arrays\14. QuickSortAlgo\obj\Debug\_14.QuickSortAlgo.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\C#\StringsAndTextProcessing\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.exe
+D:\Dropbox\C#\StringsAndTextProcessing\04. Sub-string in text\bin\Debug\_04.Sub_string_in_text.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\04. Sub-string in text\obj\Debug\_04.Sub_string_in_text.exe
+D:\Dropbox\C#\StringsAndTextProcessing\04. Sub-string in text\obj\Debug\_04.Sub_string_in_text.pdb

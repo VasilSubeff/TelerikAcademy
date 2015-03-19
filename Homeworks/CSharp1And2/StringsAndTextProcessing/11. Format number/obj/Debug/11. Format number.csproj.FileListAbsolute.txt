@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\11. Format number\bin\Debug\_11.Format_number.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\11. Format number\bin\Debug\_11.Format_number.exe
+D:\Dropbox\C#\StringsAndTextProcessing\11. Format number\bin\Debug\_11.Format_number.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\11. Format number\obj\Debug\11. Format number.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\11. Format number\obj\Debug\_11.Format_number.exe
+D:\Dropbox\C#\StringsAndTextProcessing\11. Format number\obj\Debug\_11.Format_number.pdb

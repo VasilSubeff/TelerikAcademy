@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe.config
+D:\Dropbox\C#\Methods\05. Larger than neighbours\obj\Debug\05. Larger than neighbours.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe
+D:\Dropbox\C#\Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.pdb
+D:\Dropbox\C#\Methods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.exe
+D:\Dropbox\C#\Methods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\03. MinMaxSumandAverageofNNumbers\bin\Debug\_03.MinMaxSumandAverageofNNumbers.exe.config
+D:\Dropbox\C#\Loops\06. Loops\03. MinMaxSumandAverageofNNumbers\bin\Debug\_03.MinMaxSumandAverageofNNumbers.exe
+D:\Dropbox\C#\Loops\06. Loops\03. MinMaxSumandAverageofNNumbers\bin\Debug\_03.MinMaxSumandAverageofNNumbers.pdb
+D:\Dropbox\C#\Loops\06. Loops\03. MinMaxSumandAverageofNNumbers\obj\Debug\03. MinMaxSumandAverageofNNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Loops\06. Loops\03. MinMaxSumandAverageofNNumbers\obj\Debug\_03.MinMaxSumandAverageofNNumbers.exe
+D:\Dropbox\C#\Loops\06. Loops\03. MinMaxSumandAverageofNNumbers\obj\Debug\_03.MinMaxSumandAverageofNNumbers.pdb

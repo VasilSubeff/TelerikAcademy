@@ -1,0 +1,6 @@
+D:\Dropbox\C#\TextFiles\TextFiles\05. MaximalAreaSum\bin\Debug\_05.MaximalAreaSum.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\05. MaximalAreaSum\bin\Debug\_05.MaximalAreaSum.exe
+D:\Dropbox\C#\TextFiles\TextFiles\05. MaximalAreaSum\bin\Debug\_05.MaximalAreaSum.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\05. MaximalAreaSum\obj\Debug\05. MaximalAreaSum.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\TextFiles\TextFiles\05. MaximalAreaSum\obj\Debug\_05.MaximalAreaSum.exe
+D:\Dropbox\C#\TextFiles\TextFiles\05. MaximalAreaSum\obj\Debug\_05.MaximalAreaSum.pdb

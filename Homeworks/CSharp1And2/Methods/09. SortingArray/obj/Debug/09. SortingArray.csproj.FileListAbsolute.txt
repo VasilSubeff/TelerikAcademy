@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Methods\09. SortingArray\bin\Debug\_09.SortingArray.exe.config
+D:\Dropbox\C#\Methods\09. SortingArray\obj\Debug\09. SortingArray.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Methods\09. SortingArray\bin\Debug\_09.SortingArray.exe
+D:\Dropbox\C#\Methods\09. SortingArray\bin\Debug\_09.SortingArray.pdb
+D:\Dropbox\C#\Methods\09. SortingArray\obj\Debug\_09.SortingArray.exe
+D:\Dropbox\C#\Methods\09. SortingArray\obj\Debug\_09.SortingArray.pdb

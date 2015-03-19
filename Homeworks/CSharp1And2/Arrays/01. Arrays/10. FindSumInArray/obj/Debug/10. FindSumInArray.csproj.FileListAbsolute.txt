@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Arrays\01. Arrays\10. FindSumInArray\bin\Debug\_10.FindSumInArray.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\10. FindSumInArray\bin\Debug\_10.FindSumInArray.exe
+D:\Dropbox\C#\Arrays\01. Arrays\10. FindSumInArray\bin\Debug\_10.FindSumInArray.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\10. FindSumInArray\obj\Debug\_10.FindSumInArray.exe
+D:\Dropbox\C#\Arrays\01. Arrays\10. FindSumInArray\obj\Debug\_10.FindSumInArray.pdb

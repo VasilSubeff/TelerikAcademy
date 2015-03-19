@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\4. RelevanceIndex\bin\Debug\_4.RelevanceIndex.exe.config
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\4. RelevanceIndex\bin\Debug\_4.RelevanceIndex.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\4. RelevanceIndex\bin\Debug\_4.RelevanceIndex.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\4. RelevanceIndex\obj\Debug\_4.RelevanceIndex.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\4. RelevanceIndex\obj\Debug\_4.RelevanceIndex.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\4. RelevanceIndex\obj\Debug\4. RelevanceIndex.csprojResolveAssemblyReference.cache

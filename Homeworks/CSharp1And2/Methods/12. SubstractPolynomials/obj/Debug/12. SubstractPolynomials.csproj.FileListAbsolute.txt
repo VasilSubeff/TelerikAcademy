@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Methods\12. SubstractPolynomials\bin\Debug\_12.SubstractPolynomials.exe.config
+D:\Dropbox\C#\Methods\12. SubstractPolynomials\bin\Debug\_12.SubstractPolynomials.exe
+D:\Dropbox\C#\Methods\12. SubstractPolynomials\bin\Debug\_12.SubstractPolynomials.pdb
+D:\Dropbox\C#\Methods\12. SubstractPolynomials\obj\Debug\_12.SubstractPolynomials.exe
+D:\Dropbox\C#\Methods\12. SubstractPolynomials\obj\Debug\_12.SubstractPolynomials.pdb

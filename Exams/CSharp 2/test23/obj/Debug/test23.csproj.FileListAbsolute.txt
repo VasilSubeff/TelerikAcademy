@@ -1,0 +1,8 @@
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\test23\bin\Debug\test23.exe.config
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\test23\bin\Debug\test23.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\test23\bin\Debug\test23.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\test23\obj\Debug\test23.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\test23\obj\Debug\test23.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\test23\bin\Debug\test23.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\test23\obj\Debug\test23.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\test23\obj\Debug\test23.pdb

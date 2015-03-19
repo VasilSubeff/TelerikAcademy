@@ -1,0 +1,9 @@
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. KaspichanNumbers\bin\Debug\_1.KaspichanNumbers.exe.config
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. KaspichanNumbers\obj\Debug\1. KaspichanNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. KaspichanNumbers\bin\Debug\_1.KaspichanNumbers.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. KaspichanNumbers\bin\Debug\_1.KaspichanNumbers.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. KaspichanNumbers\obj\Debug\_1.KaspichanNumbers.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1. KaspichanNumbers\obj\Debug\_1.KaspichanNumbers.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. KaspichanNumbers\bin\Debug\_1.KaspichanNumbers.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. KaspichanNumbers\obj\Debug\_1.KaspichanNumbers.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. KaspichanNumbers\obj\Debug\_1.KaspichanNumbers.pdb

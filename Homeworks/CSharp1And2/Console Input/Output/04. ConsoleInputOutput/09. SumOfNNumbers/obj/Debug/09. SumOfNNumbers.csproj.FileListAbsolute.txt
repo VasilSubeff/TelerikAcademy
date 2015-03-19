@@ -1,0 +1,5 @@
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe.config
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.pdb
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.pdb

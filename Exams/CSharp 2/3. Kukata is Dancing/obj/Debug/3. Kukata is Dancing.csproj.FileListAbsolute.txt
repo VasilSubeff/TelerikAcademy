@@ -1,0 +1,6 @@
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\3. Kukata is Dancing\bin\Debug\_3.Kukata_is_Dancing.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\3. Kukata is Dancing\bin\Debug\_3.Kukata_is_Dancing.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\3. Kukata is Dancing\bin\Debug\_3.Kukata_is_Dancing.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\3. Kukata is Dancing\obj\Debug\3. Kukata is Dancing.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\3. Kukata is Dancing\obj\Debug\_3.Kukata_is_Dancing.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\3. Kukata is Dancing\obj\Debug\_3.Kukata_is_Dancing.pdb

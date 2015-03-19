@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Arrays\01. Arrays\08. MaxSeqSum\bin\Debug\_08.MaxSeqSum.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\08. MaxSeqSum\bin\Debug\_08.MaxSeqSum.exe
+D:\Dropbox\C#\Arrays\01. Arrays\08. MaxSeqSum\bin\Debug\_08.MaxSeqSum.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\08. MaxSeqSum\obj\Debug\_08.MaxSeqSum.exe
+D:\Dropbox\C#\Arrays\01. Arrays\08. MaxSeqSum\obj\Debug\_08.MaxSeqSum.pdb

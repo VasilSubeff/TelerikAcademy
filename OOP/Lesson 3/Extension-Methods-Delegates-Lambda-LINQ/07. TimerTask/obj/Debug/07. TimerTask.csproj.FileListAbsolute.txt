@@ -1,0 +1,6 @@
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\07. TimerTask\bin\Debug\_07.TimerTask.exe.config
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\07. TimerTask\bin\Debug\_07.TimerTask.exe
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\07. TimerTask\bin\Debug\_07.TimerTask.pdb
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\07. TimerTask\obj\Debug\07. TimerTask.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\07. TimerTask\obj\Debug\_07.TimerTask.exe
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\07. TimerTask\obj\Debug\_07.TimerTask.pdb

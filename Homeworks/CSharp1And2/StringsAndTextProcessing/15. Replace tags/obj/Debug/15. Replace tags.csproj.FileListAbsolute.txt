@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\15. Replace tags\bin\Debug\_15.Replace_tags.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\15. Replace tags\bin\Debug\_15.Replace_tags.exe
+D:\Dropbox\C#\StringsAndTextProcessing\15. Replace tags\bin\Debug\_15.Replace_tags.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\15. Replace tags\obj\Debug\15. Replace tags.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\15. Replace tags\obj\Debug\_15.Replace_tags.exe
+D:\Dropbox\C#\StringsAndTextProcessing\15. Replace tags\obj\Debug\_15.Replace_tags.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Arrays\01. Arrays\01. ArrayBy5\bin\Debug\_01.ArrayBy5.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\01. ArrayBy5\bin\Debug\_01.ArrayBy5.exe
+D:\Dropbox\C#\Arrays\01. Arrays\01. ArrayBy5\bin\Debug\_01.ArrayBy5.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\01. ArrayBy5\obj\Debug\01. ArrayBy5.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Arrays\01. Arrays\01. ArrayBy5\obj\Debug\_01.ArrayBy5.exe
+D:\Dropbox\C#\Arrays\01. Arrays\01. ArrayBy5\obj\Debug\_01.ArrayBy5.pdb

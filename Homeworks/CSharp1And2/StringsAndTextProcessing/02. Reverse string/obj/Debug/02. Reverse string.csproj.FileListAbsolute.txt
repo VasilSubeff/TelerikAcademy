@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\02. Reverse string\bin\Debug\_02.Reverse_string.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\02. Reverse string\bin\Debug\_02.Reverse_string.exe
+D:\Dropbox\C#\StringsAndTextProcessing\02. Reverse string\bin\Debug\_02.Reverse_string.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\02. Reverse string\obj\Debug\02. Reverse string.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\02. Reverse string\obj\Debug\_02.Reverse_string.exe
+D:\Dropbox\C#\StringsAndTextProcessing\02. Reverse string\obj\Debug\_02.Reverse_string.pdb

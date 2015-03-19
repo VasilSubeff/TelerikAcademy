@@ -1,0 +1,5 @@
+D:\Dropbox\C#\TextFiles\TextFiles\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe
+D:\Dropbox\C#\TextFiles\TextFiles\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.exe
+D:\Dropbox\C#\TextFiles\TextFiles\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.pdb

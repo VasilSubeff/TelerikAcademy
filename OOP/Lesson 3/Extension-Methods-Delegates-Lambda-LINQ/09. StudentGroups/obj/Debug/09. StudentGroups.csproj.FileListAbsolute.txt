@@ -1,0 +1,12 @@
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\bin\Debug\_09.StudentGroups.exe.config
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\obj\Debug\09. StudentGroups.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\bin\Debug\_09.StudentGroups.exe
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\bin\Debug\_09.StudentGroups.pdb
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\obj\Debug\_09.StudentGroups.exe
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\obj\Debug\_09.StudentGroups.pdb
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\bin\Debug\_09.StudentGroups.exe.config
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\obj\Debug\_09.StudentGroups.exe
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\obj\Debug\_09.StudentGroups.pdb
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\obj\Debug\09. StudentGroups.csprojResolveAssemblyReference.cache
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\bin\Debug\_09.StudentGroups.exe
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\09. StudentGroups\bin\Debug\_09.StudentGroups.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Methods\1. Say Hello\bin\Debug\_1.Say_Hello.exe.config
+D:\Dropbox\C#\Methods\1. Say Hello\bin\Debug\_1.Say_Hello.exe
+D:\Dropbox\C#\Methods\1. Say Hello\bin\Debug\_1.Say_Hello.pdb
+D:\Dropbox\C#\Methods\1. Say Hello\obj\Debug\_1.Say_Hello.exe
+D:\Dropbox\C#\Methods\1. Say Hello\obj\Debug\_1.Say_Hello.pdb

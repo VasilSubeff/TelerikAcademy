@@ -1,0 +1,15 @@
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1 – Multiverse Communication\bin\Debug\1 – Multiverse Communication.exe.config
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1 – Multiverse Communication\bin\Debug\1 – Multiverse Communication.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1 – Multiverse Communication\bin\Debug\1 – Multiverse Communication.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.pdb
+D:\Dropbox\CSharp\Exams\CSharp 2\1 – Multiverse Communication\bin\Debug\1 – Multiverse Communication.exe.config
+D:\Dropbox\CSharp\Exams\CSharp 2\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.exe
+D:\Dropbox\CSharp\Exams\CSharp 2\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.pdb
+D:\Dropbox\CSharp\Exams\CSharp 2\1 – Multiverse Communication\bin\Debug\1 – Multiverse Communication.exe
+D:\Dropbox\CSharp\Exams\CSharp 2\1 – Multiverse Communication\bin\Debug\1 – Multiverse Communication.pdb
+D:\Dropbox\CSharp\Exams\CSharp 2\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1 – Multiverse Communication\bin\Debug\1 – Multiverse Communication.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1 – Multiverse Communication\obj\Debug\1 – Multiverse Communication.pdb

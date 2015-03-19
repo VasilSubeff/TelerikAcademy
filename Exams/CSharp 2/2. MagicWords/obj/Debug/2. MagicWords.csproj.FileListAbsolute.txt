@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\2. MagicWords\bin\Debug\_2.MagicWords.exe.config
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\2. MagicWords\bin\Debug\_2.MagicWords.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\2. MagicWords\bin\Debug\_2.MagicWords.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\2. MagicWords\obj\Debug\_2.MagicWords.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\2. MagicWords\obj\Debug\_2.MagicWords.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\2. MagicWords\obj\Debug\2. MagicWords.csprojResolveAssemblyReference.cache

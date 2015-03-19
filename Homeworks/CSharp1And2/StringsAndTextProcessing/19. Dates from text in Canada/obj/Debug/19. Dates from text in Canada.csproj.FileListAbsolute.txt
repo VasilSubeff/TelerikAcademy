@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.exe
+D:\Dropbox\C#\StringsAndTextProcessing\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\19. Dates from text in Canada\obj\Debug\19. Dates from text in Canada.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.exe
+D:\Dropbox\C#\StringsAndTextProcessing\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.pdb

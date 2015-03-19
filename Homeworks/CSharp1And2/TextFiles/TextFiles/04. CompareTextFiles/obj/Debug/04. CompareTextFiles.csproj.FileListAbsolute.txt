@@ -1,0 +1,6 @@
+D:\Dropbox\C#\TextFiles\TextFiles\04. CompareTextFiles\bin\Debug\_04.CompareTextFiles.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\04. CompareTextFiles\bin\Debug\_04.CompareTextFiles.exe
+D:\Dropbox\C#\TextFiles\TextFiles\04. CompareTextFiles\bin\Debug\_04.CompareTextFiles.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\04. CompareTextFiles\obj\Debug\_04.CompareTextFiles.exe
+D:\Dropbox\C#\TextFiles\TextFiles\04. CompareTextFiles\obj\Debug\_04.CompareTextFiles.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\04. CompareTextFiles\obj\Debug\04. CompareTextFiles.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\03. CheckforaPlayCard\bin\Debug\_03.CheckforaPlayCard.exe.config
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\03. CheckforaPlayCard\bin\Debug\_03.CheckforaPlayCard.exe
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\03. CheckforaPlayCard\bin\Debug\_03.CheckforaPlayCard.pdb
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\03. CheckforaPlayCard\obj\Debug\_03.CheckforaPlayCard.exe
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\03. CheckforaPlayCard\obj\Debug\_03.CheckforaPlayCard.pdb

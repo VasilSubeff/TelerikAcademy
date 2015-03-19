@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\3. Patterns\bin\Debug\_3.Patterns.exe.config
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\3. Patterns\obj\Debug\3. Patterns.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\3. Patterns\bin\Debug\_3.Patterns.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\3. Patterns\bin\Debug\_3.Patterns.pdb
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\3. Patterns\obj\Debug\_3.Patterns.exe
+D:\Dropbox\C#\Exams\2013 morning\14 sep 2013 morning\3. Patterns\obj\Debug\_3.Patterns.pdb

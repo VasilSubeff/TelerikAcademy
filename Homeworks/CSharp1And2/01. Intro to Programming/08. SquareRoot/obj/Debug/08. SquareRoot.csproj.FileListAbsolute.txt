@@ -1,0 +1,5 @@
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\08. SquareRoot\bin\Debug\_08.SquareRoot.exe.config
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\08. SquareRoot\bin\Debug\_08.SquareRoot.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\08. SquareRoot\bin\Debug\_08.SquareRoot.pdb
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\08. SquareRoot\obj\Debug\_08.SquareRoot.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\08. SquareRoot\obj\Debug\_08.SquareRoot.pdb

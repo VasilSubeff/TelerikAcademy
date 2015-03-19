@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Loops\06. Loops\16. DecimaltoHexadecimalNumber\bin\Debug\_16.DecimaltoHexadecimalNumber.exe.config
+D:\Dropbox\C#\Loops\06. Loops\16. DecimaltoHexadecimalNumber\bin\Debug\_16.DecimaltoHexadecimalNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\16. DecimaltoHexadecimalNumber\bin\Debug\_16.DecimaltoHexadecimalNumber.pdb
+D:\Dropbox\C#\Loops\06. Loops\16. DecimaltoHexadecimalNumber\obj\Debug\_16.DecimaltoHexadecimalNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\16. DecimaltoHexadecimalNumber\obj\Debug\_16.DecimaltoHexadecimalNumber.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Methods\04. AppearanceCount\bin\Debug\_04.AppearanceCount.exe.config
+D:\Dropbox\C#\Methods\04. AppearanceCount\bin\Debug\_04.AppearanceCount.exe
+D:\Dropbox\C#\Methods\04. AppearanceCount\bin\Debug\_04.AppearanceCount.pdb
+D:\Dropbox\C#\Methods\04. AppearanceCount\obj\Debug\_04.AppearanceCount.exe
+D:\Dropbox\C#\Methods\04. AppearanceCount\obj\Debug\_04.AppearanceCount.pdb
+D:\Dropbox\C#\Methods\04. AppearanceCount\obj\Debug\04. AppearanceCount.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Dropbox\C#\StringsAndTextProcessing\09. Forbidden words\bin\Debug\_09.Forbidden_words.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\09. Forbidden words\bin\Debug\_09.Forbidden_words.exe
+D:\Dropbox\C#\StringsAndTextProcessing\09. Forbidden words\bin\Debug\_09.Forbidden_words.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\09. Forbidden words\obj\Debug\_09.Forbidden_words.exe
+D:\Dropbox\C#\StringsAndTextProcessing\09. Forbidden words\obj\Debug\_09.Forbidden_words.pdb

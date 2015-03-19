@@ -1,0 +1,6 @@
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\11. Extract3rdBit\bin\Debug\_11.Extract3rdBit.exe.config
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\11. Extract3rdBit\bin\Debug\_11.Extract3rdBit.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\11. Extract3rdBit\bin\Debug\_11.Extract3rdBit.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\11. Extract3rdBit\obj\Debug\11. Extract3rdBit.csprojResolveAssemblyReference.cache
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\11. Extract3rdBit\obj\Debug\_11.Extract3rdBit.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\11. Extract3rdBit\obj\Debug\_11.Extract3rdBit.pdb

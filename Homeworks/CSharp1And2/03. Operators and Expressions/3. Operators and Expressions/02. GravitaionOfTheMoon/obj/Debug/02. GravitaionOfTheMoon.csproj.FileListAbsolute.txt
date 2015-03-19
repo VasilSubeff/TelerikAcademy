@@ -1,0 +1,5 @@
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\02. GravitaionOfTheMoon\bin\Debug\_02.GravitaionOfTheMoon.exe.config
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\02. GravitaionOfTheMoon\bin\Debug\_02.GravitaionOfTheMoon.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\02. GravitaionOfTheMoon\bin\Debug\_02.GravitaionOfTheMoon.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\02. GravitaionOfTheMoon\obj\Debug\_02.GravitaionOfTheMoon.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\02. GravitaionOfTheMoon\obj\Debug\_02.GravitaionOfTheMoon.pdb

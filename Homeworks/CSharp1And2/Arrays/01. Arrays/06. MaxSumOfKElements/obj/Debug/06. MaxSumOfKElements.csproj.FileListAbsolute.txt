@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Arrays\01. Arrays\06. MaxSumOfKElements\bin\Debug\_06.MaxSumOfKElements.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\06. MaxSumOfKElements\bin\Debug\_06.MaxSumOfKElements.exe
+D:\Dropbox\C#\Arrays\01. Arrays\06. MaxSumOfKElements\bin\Debug\_06.MaxSumOfKElements.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\06. MaxSumOfKElements\obj\Debug\06. MaxSumOfKElements.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Arrays\01. Arrays\06. MaxSumOfKElements\obj\Debug\_06.MaxSumOfKElements.exe
+D:\Dropbox\C#\Arrays\01. Arrays\06. MaxSumOfKElements\obj\Debug\_06.MaxSumOfKElements.pdb

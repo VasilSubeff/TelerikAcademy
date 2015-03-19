@@ -1,0 +1,5 @@
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\testqwe\bin\Debug\testqwe.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\testqwe\bin\Debug\testqwe.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\testqwe\bin\Debug\testqwe.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\testqwe\obj\Debug\testqwe.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\testqwe\obj\Debug\testqwe.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. 9Gag Numbers\bin\Debug\1. 9Gag Numbers.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. 9Gag Numbers\bin\Debug\1. 9Gag Numbers.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. 9Gag Numbers\bin\Debug\1. 9Gag Numbers.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. 9Gag Numbers\obj\Debug\1. 9Gag Numbers.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\1. 9Gag Numbers\obj\Debug\1. 9Gag Numbers.pdb

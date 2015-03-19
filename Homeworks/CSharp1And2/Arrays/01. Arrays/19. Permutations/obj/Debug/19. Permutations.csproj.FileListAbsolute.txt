@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Arrays\01. Arrays\19. Permutations\bin\Debug\_19.Permutations.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\19. Permutations\obj\Debug\19. Permutations.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Arrays\01. Arrays\19. Permutations\bin\Debug\_19.Permutations.exe
+D:\Dropbox\C#\Arrays\01. Arrays\19. Permutations\bin\Debug\_19.Permutations.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\19. Permutations\obj\Debug\_19.Permutations.exe
+D:\Dropbox\C#\Arrays\01. Arrays\19. Permutations\obj\Debug\_19.Permutations.pdb

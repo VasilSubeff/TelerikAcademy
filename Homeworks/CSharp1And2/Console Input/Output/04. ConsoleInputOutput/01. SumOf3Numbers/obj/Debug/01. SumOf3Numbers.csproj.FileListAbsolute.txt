@@ -1,0 +1,9 @@
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.exe.config
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.pdb
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\01. SumOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\_01.SumOf3Numbers.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\_01.SumOf3Numbers.pdb
+D:\Dropbox\C#\Console Input\Output\04. ConsoleInputOutput\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.exe.config
+D:\Dropbox\C#\Console Input\Output\04. ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\_01.SumOf3Numbers.exe
+D:\Dropbox\C#\Console Input\Output\04. ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\_01.SumOf3Numbers.pdb

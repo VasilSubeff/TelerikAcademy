@@ -1,0 +1,5 @@
+D:\Dropbox\C#\TextFiles\TextFiles\02. ConcatenateTextFiles\bin\Debug\_02.ConcatenateTextFiles.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\02. ConcatenateTextFiles\bin\Debug\_02.ConcatenateTextFiles.exe
+D:\Dropbox\C#\TextFiles\TextFiles\02. ConcatenateTextFiles\bin\Debug\_02.ConcatenateTextFiles.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\02. ConcatenateTextFiles\obj\Debug\_02.ConcatenateTextFiles.exe
+D:\Dropbox\C#\TextFiles\TextFiles\02. ConcatenateTextFiles\obj\Debug\_02.ConcatenateTextFiles.pdb

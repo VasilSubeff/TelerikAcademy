@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Methods\03. EnglishDigit\bin\Debug\_03.EnglishDigit.exe.config
+D:\Dropbox\C#\Methods\03. EnglishDigit\obj\Debug\03. EnglishDigit.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Methods\03. EnglishDigit\bin\Debug\_03.EnglishDigit.exe
+D:\Dropbox\C#\Methods\03. EnglishDigit\bin\Debug\_03.EnglishDigit.pdb
+D:\Dropbox\C#\Methods\03. EnglishDigit\obj\Debug\_03.EnglishDigit.exe
+D:\Dropbox\C#\Methods\03. EnglishDigit\obj\Debug\_03.EnglishDigit.pdb

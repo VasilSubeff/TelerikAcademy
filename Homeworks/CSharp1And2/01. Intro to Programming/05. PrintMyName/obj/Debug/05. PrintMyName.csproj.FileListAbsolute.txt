@@ -1,0 +1,5 @@
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\05. PrintMyName\bin\Debug\_05.PrintMyName.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\05. PrintMyName\bin\Debug\_05.PrintMyName.pdb
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb

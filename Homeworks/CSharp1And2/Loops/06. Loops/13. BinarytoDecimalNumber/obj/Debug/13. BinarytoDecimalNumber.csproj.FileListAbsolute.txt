@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Loops\06. Loops\13. BinarytoDecimalNumber\bin\Debug\_13.BinarytoDecimalNumber.exe.config
+D:\Dropbox\C#\Loops\06. Loops\13. BinarytoDecimalNumber\bin\Debug\_13.BinarytoDecimalNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\13. BinarytoDecimalNumber\bin\Debug\_13.BinarytoDecimalNumber.pdb
+D:\Dropbox\C#\Loops\06. Loops\13. BinarytoDecimalNumber\obj\Debug\_13.BinarytoDecimalNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\13. BinarytoDecimalNumber\obj\Debug\_13.BinarytoDecimalNumber.pdb

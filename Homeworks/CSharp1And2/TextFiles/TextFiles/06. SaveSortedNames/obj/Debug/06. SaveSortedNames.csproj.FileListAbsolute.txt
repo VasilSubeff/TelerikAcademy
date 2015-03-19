@@ -1,0 +1,5 @@
+D:\Dropbox\C#\TextFiles\TextFiles\06. SaveSortedNames\bin\Debug\_06.SaveSortedNames.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\06. SaveSortedNames\bin\Debug\_06.SaveSortedNames.exe
+D:\Dropbox\C#\TextFiles\TextFiles\06. SaveSortedNames\bin\Debug\_06.SaveSortedNames.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\06. SaveSortedNames\obj\Debug\_06.SaveSortedNames.exe
+D:\Dropbox\C#\TextFiles\TextFiles\06. SaveSortedNames\obj\Debug\_06.SaveSortedNames.pdb

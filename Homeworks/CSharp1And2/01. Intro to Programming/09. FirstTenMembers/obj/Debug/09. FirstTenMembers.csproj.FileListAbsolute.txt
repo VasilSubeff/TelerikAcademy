@@ -1,0 +1,5 @@
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\09. FirstTenMembers\bin\Debug\_09.FirstTenMembers.exe.config
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\09. FirstTenMembers\bin\Debug\_09.FirstTenMembers.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\09. FirstTenMembers\bin\Debug\_09.FirstTenMembers.pdb
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\09. FirstTenMembers\obj\Debug\_09.FirstTenMembers.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\09. FirstTenMembers\obj\Debug\_09.FirstTenMembers.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\01. NumbersFrom1toN\bin\Debug\_01.NumbersFrom1toN.exe.config
+D:\Dropbox\C#\Loops\06. Loops\01. NumbersFrom1toN\bin\Debug\_01.NumbersFrom1toN.exe
+D:\Dropbox\C#\Loops\06. Loops\01. NumbersFrom1toN\bin\Debug\_01.NumbersFrom1toN.pdb
+D:\Dropbox\C#\Loops\06. Loops\01. NumbersFrom1toN\obj\Debug\01. NumbersFrom1toN.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Loops\06. Loops\01. NumbersFrom1toN\obj\Debug\_01.NumbersFrom1toN.exe
+D:\Dropbox\C#\Loops\06. Loops\01. NumbersFrom1toN\obj\Debug\_01.NumbersFrom1toN.pdb

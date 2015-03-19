@@ -1,0 +1,11 @@
+D:\Dropbox\CSharp\Exams\CSharp 2\4. Console Justification\bin\Debug\_4.Console_Justification.exe.config
+D:\Dropbox\CSharp\Exams\CSharp 2\4. Console Justification\bin\Debug\_4.Console_Justification.exe
+D:\Dropbox\CSharp\Exams\CSharp 2\4. Console Justification\bin\Debug\_4.Console_Justification.pdb
+D:\Dropbox\CSharp\Exams\CSharp 2\4. Console Justification\obj\Debug\_4.Console_Justification.exe
+D:\Dropbox\CSharp\Exams\CSharp 2\4. Console Justification\obj\Debug\_4.Console_Justification.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\4. Console Justification\bin\Debug\_4.Console_Justification.exe.config
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\4. Console Justification\obj\Debug\_4.Console_Justification.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\4. Console Justification\obj\Debug\_4.Console_Justification.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\4. Console Justification\bin\Debug\_4.Console_Justification.exe
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\4. Console Justification\bin\Debug\_4.Console_Justification.pdb
+D:\Dropbox\TelerikAcademy\Exams\CSharp 2\4. Console Justification\obj\Debug\4. Console Justification.csprojResolveAssemblyReference.cache

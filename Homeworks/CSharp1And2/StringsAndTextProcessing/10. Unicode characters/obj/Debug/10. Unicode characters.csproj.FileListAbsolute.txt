@@ -1,0 +1,5 @@
+D:\Dropbox\C#\StringsAndTextProcessing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe
+D:\Dropbox\C#\StringsAndTextProcessing\10. Unicode characters\bin\Debug\_10.Unicode_characters.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\10. Unicode characters\obj\Debug\_10.Unicode_characters.exe
+D:\Dropbox\C#\StringsAndTextProcessing\10. Unicode characters\obj\Debug\_10.Unicode_characters.pdb

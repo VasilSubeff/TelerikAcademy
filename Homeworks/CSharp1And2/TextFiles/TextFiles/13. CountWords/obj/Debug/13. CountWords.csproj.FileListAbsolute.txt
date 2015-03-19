@@ -1,0 +1,5 @@
+D:\Dropbox\C#\TextFiles\TextFiles\13. CountWords\bin\Debug\_13.CountWords.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\13. CountWords\bin\Debug\_13.CountWords.exe
+D:\Dropbox\C#\TextFiles\TextFiles\13. CountWords\bin\Debug\_13.CountWords.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\13. CountWords\obj\Debug\_13.CountWords.exe
+D:\Dropbox\C#\TextFiles\TextFiles\13. CountWords\obj\Debug\_13.CountWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\07. PointInCircle\bin\Debug\_07.PointInCircle.exe.config
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\07. PointInCircle\bin\Debug\_07.PointInCircle.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\07. PointInCircle\bin\Debug\_07.PointInCircle.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\07. PointInCircle\obj\Debug\07. PointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\07. PointInCircle\obj\Debug\_07.PointInCircle.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\07. PointInCircle\obj\Debug\_07.PointInCircle.pdb

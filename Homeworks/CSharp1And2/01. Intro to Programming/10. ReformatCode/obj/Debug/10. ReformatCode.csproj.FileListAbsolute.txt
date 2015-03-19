@@ -1,0 +1,5 @@
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\10. ReformatCode\bin\Debug\_10.ReformatCode.exe.config
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\10. ReformatCode\bin\Debug\_10.ReformatCode.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\10. ReformatCode\bin\Debug\_10.ReformatCode.pdb
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\10. ReformatCode\obj\Debug\_10.ReformatCode.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\10. ReformatCode\obj\Debug\_10.ReformatCode.pdb

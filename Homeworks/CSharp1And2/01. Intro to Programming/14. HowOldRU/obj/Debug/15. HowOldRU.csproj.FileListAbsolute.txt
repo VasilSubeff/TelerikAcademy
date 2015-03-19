@@ -1,0 +1,5 @@
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\14. HowOldRU\bin\Debug\_14.HowOldRU.exe.config
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\14. HowOldRU\bin\Debug\_14.HowOldRU.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\14. HowOldRU\bin\Debug\_14.HowOldRU.pdb
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\14. HowOldRU\obj\Debug\_14.HowOldRU.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\14. HowOldRU\obj\Debug\_14.HowOldRU.pdb

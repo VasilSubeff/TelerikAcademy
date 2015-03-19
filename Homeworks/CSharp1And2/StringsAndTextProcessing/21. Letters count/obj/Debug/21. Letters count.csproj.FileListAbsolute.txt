@@ -1,0 +1,5 @@
+D:\Dropbox\C#\StringsAndTextProcessing\21. Letters count\bin\Debug\_21.Letters_count.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\21. Letters count\bin\Debug\_21.Letters_count.exe
+D:\Dropbox\C#\StringsAndTextProcessing\21. Letters count\bin\Debug\_21.Letters_count.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\21. Letters count\obj\Debug\_21.Letters_count.exe
+D:\Dropbox\C#\StringsAndTextProcessing\21. Letters count\obj\Debug\_21.Letters_count.pdb

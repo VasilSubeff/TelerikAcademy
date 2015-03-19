@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Arrays\01. Arrays\07. SelectionSort\bin\Debug\_07.SelectionSort.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\07. SelectionSort\obj\Debug\07. SelectionSort.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Arrays\01. Arrays\07. SelectionSort\bin\Debug\_07.SelectionSort.exe
+D:\Dropbox\C#\Arrays\01. Arrays\07. SelectionSort\bin\Debug\_07.SelectionSort.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\07. SelectionSort\obj\Debug\_07.SelectionSort.exe
+D:\Dropbox\C#\Arrays\01. Arrays\07. SelectionSort\obj\Debug\_07.SelectionSort.pdb

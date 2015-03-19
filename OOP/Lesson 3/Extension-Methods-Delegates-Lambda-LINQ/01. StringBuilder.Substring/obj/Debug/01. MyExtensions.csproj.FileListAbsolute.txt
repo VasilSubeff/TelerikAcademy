@@ -1,0 +1,8 @@
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\obj\Debug\01. MyExtensions.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\bin\Debug\_01.StringBuilder.Substring.exe.config
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\bin\Debug\_01.StringBuilder.Substring.exe
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\bin\Debug\_01.StringBuilder.Substring.pdb
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\obj\Debug\_01.StringBuilder.Substring.exe
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\obj\Debug\_01.StringBuilder.Substring.pdb
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\bin\Debug\_01.StringBuilder.Substring.exe.config
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\01. StringBuilder.Substring\obj\Debug\_01.StringBuilder.Substring.exe

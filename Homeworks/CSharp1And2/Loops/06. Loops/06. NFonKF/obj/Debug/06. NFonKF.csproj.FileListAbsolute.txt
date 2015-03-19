@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Loops\06. Loops\06. NFonKF\bin\Debug\_06.NFonKF.exe.config
+D:\Dropbox\C#\Loops\06. Loops\06. NFonKF\bin\Debug\_06.NFonKF.exe
+D:\Dropbox\C#\Loops\06. Loops\06. NFonKF\bin\Debug\_06.NFonKF.pdb
+D:\Dropbox\C#\Loops\06. Loops\06. NFonKF\obj\Debug\_06.NFonKF.exe
+D:\Dropbox\C#\Loops\06. Loops\06. NFonKF\obj\Debug\_06.NFonKF.pdb

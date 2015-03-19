@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\16. Date difference\bin\Debug\_16.Date_difference.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\16. Date difference\obj\Debug\16. Date difference.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\16. Date difference\bin\Debug\_16.Date_difference.exe
+D:\Dropbox\C#\StringsAndTextProcessing\16. Date difference\bin\Debug\_16.Date_difference.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\16. Date difference\obj\Debug\_16.Date_difference.exe
+D:\Dropbox\C#\StringsAndTextProcessing\16. Date difference\obj\Debug\_16.Date_difference.pdb

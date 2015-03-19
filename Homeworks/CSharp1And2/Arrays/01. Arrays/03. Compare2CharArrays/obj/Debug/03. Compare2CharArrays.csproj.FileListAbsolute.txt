@@ -1,0 +1,1 @@
+D:\Dropbox\C#\Arrays\01. Arrays\03. Compare2CharArrays\bin\Debug\_03.Compare2CharArrays.exe.config

@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe.config
+D:\Dropbox\C#\Loops\06. Loops\19. SpiralMatrix\obj\Debug\19. SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Loops\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe
+D:\Dropbox\C#\Loops\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.pdb
+D:\Dropbox\C#\Loops\06. Loops\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.exe
+D:\Dropbox\C#\Loops\06. Loops\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.pdb

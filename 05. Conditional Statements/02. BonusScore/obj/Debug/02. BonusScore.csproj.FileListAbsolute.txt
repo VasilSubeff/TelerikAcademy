@@ -1,0 +1,6 @@
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\02. BonusScore\bin\Debug\_02.BonusScore.exe.config
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\02. BonusScore\obj\Debug\02. BonusScore.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\02. BonusScore\bin\Debug\_02.BonusScore.exe
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\02. BonusScore\bin\Debug\_02.BonusScore.pdb
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\02. BonusScore\obj\Debug\_02.BonusScore.exe
+D:\Dropbox\C#\ConditionalStatements\05. Conditional Statements\02. BonusScore\obj\Debug\_02.BonusScore.pdb

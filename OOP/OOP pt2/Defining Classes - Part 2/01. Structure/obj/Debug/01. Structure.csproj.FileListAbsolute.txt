@@ -1,0 +1,6 @@
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\01. Structure\bin\Debug\_01.Structure.exe.config
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\01. Structure\bin\Debug\_01.Structure.exe
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\01. Structure\bin\Debug\_01.Structure.pdb
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\01. Structure\obj\Debug\01. Structure.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\01. Structure\obj\Debug\_01.Structure.exe
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\01. Structure\obj\Debug\_01.Structure.pdb

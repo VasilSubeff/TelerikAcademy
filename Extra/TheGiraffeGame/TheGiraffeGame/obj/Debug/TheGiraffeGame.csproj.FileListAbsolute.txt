@@ -1,0 +1,8 @@
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\bin\Debug\TheGiraffeGame.exe.config
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\obj\Debug\TheGiraffeGame.csproj.ResolveComReference.cache
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\bin\Debug\TheGiraffeGame.exe
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\bin\Debug\TheGiraffeGame.pdb
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\obj\Debug\TheGiraffeGame.csprojResolveAssemblyReference.cache
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\obj\Debug\TheGiraffeGame.exe
+C:\Users\Backo\Desktop\theMage\TheGiraffeGame\TheGiraffeGame\obj\Debug\TheGiraffeGame.pdb

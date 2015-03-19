@@ -1,0 +1,6 @@
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\12. BitAndPosition\bin\Debug\_12.BitAndPosition.exe.config
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\12. BitAndPosition\bin\Debug\_12.BitAndPosition.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\12. BitAndPosition\bin\Debug\_12.BitAndPosition.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\12. BitAndPosition\obj\Debug\_12.BitAndPosition.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\12. BitAndPosition\obj\Debug\_12.BitAndPosition.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\12. BitAndPosition\obj\Debug\12. BitAndPosition.csprojResolveAssemblyReference.cache

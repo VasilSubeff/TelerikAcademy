@@ -1,0 +1,6 @@
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe.config
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\04. HelloCSharp\bin\Debug\_04.HelloCSharp.pdb
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\04. HelloCSharp\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\04. HelloCSharp\obj\Debug\_04.HelloCSharp.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\04. HelloCSharp\obj\Debug\_04.HelloCSharp.pdb

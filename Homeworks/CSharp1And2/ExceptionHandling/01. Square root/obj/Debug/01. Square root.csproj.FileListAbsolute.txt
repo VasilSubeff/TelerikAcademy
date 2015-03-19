@@ -1,0 +1,6 @@
+D:\Dropbox\C#\ExceptionHandling\01. Square root\bin\Debug\_01.Square_root.exe.config
+D:\Dropbox\C#\ExceptionHandling\01. Square root\obj\Debug\01. Square root.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ExceptionHandling\01. Square root\bin\Debug\_01.Square_root.exe
+D:\Dropbox\C#\ExceptionHandling\01. Square root\bin\Debug\_01.Square_root.pdb
+D:\Dropbox\C#\ExceptionHandling\01. Square root\obj\Debug\_01.Square_root.exe
+D:\Dropbox\C#\ExceptionHandling\01. Square root\obj\Debug\_01.Square_root.pdb

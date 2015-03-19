@@ -1,0 +1,5 @@
+D:\Dropbox\C#\TextFiles\TextFiles\08. ReplaceWholeWord\bin\Debug\_08.ReplaceWholeWord.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\08. ReplaceWholeWord\bin\Debug\_08.ReplaceWholeWord.exe
+D:\Dropbox\C#\TextFiles\TextFiles\08. ReplaceWholeWord\bin\Debug\_08.ReplaceWholeWord.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\08. ReplaceWholeWord\obj\Debug\_08.ReplaceWholeWord.exe
+D:\Dropbox\C#\TextFiles\TextFiles\08. ReplaceWholeWord\obj\Debug\_08.ReplaceWholeWord.pdb

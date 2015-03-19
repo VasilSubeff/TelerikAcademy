@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Using Classes and Objects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.exe.config
+D:\Dropbox\C#\Using Classes and Objects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.exe
+D:\Dropbox\C#\Using Classes and Objects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.pdb
+D:\Dropbox\C#\Using Classes and Objects\03. DayOfTheWeek\obj\Debug\_03.DayOfTheWeek.exe
+D:\Dropbox\C#\Using Classes and Objects\03. DayOfTheWeek\obj\Debug\_03.DayOfTheWeek.pdb

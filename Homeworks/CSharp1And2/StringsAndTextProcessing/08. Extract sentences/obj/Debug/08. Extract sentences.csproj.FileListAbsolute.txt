@@ -1,0 +1,5 @@
+D:\Dropbox\C#\StringsAndTextProcessing\08. Extract sentences\bin\Debug\_08.Extract_sentences.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\08. Extract sentences\bin\Debug\_08.Extract_sentences.exe
+D:\Dropbox\C#\StringsAndTextProcessing\08. Extract sentences\bin\Debug\_08.Extract_sentences.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\08. Extract sentences\obj\Debug\_08.Extract_sentences.exe
+D:\Dropbox\C#\StringsAndTextProcessing\08. Extract sentences\obj\Debug\_08.Extract_sentences.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\02. GenericList\bin\Debug\_02.GenericList.exe.config
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\02. GenericList\bin\Debug\_02.GenericList.exe
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\02. GenericList\bin\Debug\_02.GenericList.pdb
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\02. GenericList\obj\Debug\_02.GenericList.exe
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\02. GenericList\obj\Debug\_02.GenericList.pdb

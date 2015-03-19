@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Using Classes and Objects\06. SumIntegers\bin\Debug\_06.SumIntegers.exe.config
+D:\Dropbox\C#\Using Classes and Objects\06. SumIntegers\bin\Debug\_06.SumIntegers.exe
+D:\Dropbox\C#\Using Classes and Objects\06. SumIntegers\bin\Debug\_06.SumIntegers.pdb
+D:\Dropbox\C#\Using Classes and Objects\06. SumIntegers\obj\Debug\_06.SumIntegers.exe
+D:\Dropbox\C#\Using Classes and Objects\06. SumIntegers\obj\Debug\_06.SumIntegers.pdb

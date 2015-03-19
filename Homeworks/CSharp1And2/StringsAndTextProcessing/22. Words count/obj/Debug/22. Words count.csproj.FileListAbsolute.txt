@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\22. Words count\bin\Debug\_22.Words_count.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\22. Words count\obj\Debug\22. Words count.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\22. Words count\bin\Debug\_22.Words_count.exe
+D:\Dropbox\C#\StringsAndTextProcessing\22. Words count\bin\Debug\_22.Words_count.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\22. Words count\obj\Debug\_22.Words_count.exe
+D:\Dropbox\C#\StringsAndTextProcessing\22. Words count\obj\Debug\_22.Words_count.pdb

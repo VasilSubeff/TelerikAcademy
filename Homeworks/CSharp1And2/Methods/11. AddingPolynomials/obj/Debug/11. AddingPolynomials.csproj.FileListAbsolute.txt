@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Methods\11. AddingPolynomials\bin\Debug\_11.AddingPolynomials.exe.config
+D:\Dropbox\C#\Methods\11. AddingPolynomials\bin\Debug\_11.AddingPolynomials.exe
+D:\Dropbox\C#\Methods\11. AddingPolynomials\bin\Debug\_11.AddingPolynomials.pdb
+D:\Dropbox\C#\Methods\11. AddingPolynomials\obj\Debug\_11.AddingPolynomials.exe
+D:\Dropbox\C#\Methods\11. AddingPolynomials\obj\Debug\_11.AddingPolynomials.pdb

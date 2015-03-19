@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\01. Strings in C\bin\Debug\_01.Strings_in_C.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\01. Strings in C\bin\Debug\_01.Strings_in_C.exe
+D:\Dropbox\C#\StringsAndTextProcessing\01. Strings in C\bin\Debug\_01.Strings_in_C.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\01. Strings in C\obj\Debug\01. Strings in C.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\01. Strings in C\obj\Debug\_01.Strings_in_C.exe
+D:\Dropbox\C#\StringsAndTextProcessing\01. Strings in C\obj\Debug\_01.Strings_in_C.pdb

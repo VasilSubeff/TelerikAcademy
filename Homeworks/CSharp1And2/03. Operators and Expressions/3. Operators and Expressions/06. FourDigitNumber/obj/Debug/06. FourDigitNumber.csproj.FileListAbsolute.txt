@@ -1,0 +1,6 @@
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\06. FourDigitNumber\obj\Debug\06. FourDigitNumber.csprojResolveAssemblyReference.cache

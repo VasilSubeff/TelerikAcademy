@@ -1,0 +1,6 @@
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\11. NumbersInIntervalDividableBy5\bin\Debug\_11.NumbersInIntervalDividableBy5.exe.config
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\11. NumbersInIntervalDividableBy5\bin\Debug\_11.NumbersInIntervalDividableBy5.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\11. NumbersInIntervalDividableBy5\bin\Debug\_11.NumbersInIntervalDividableBy5.pdb
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\11. NumbersInIntervalDividableBy5\obj\Debug\11. NumbersInIntervalDividableBy5.csprojResolveAssemblyReference.cache
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\11. NumbersInIntervalDividableBy5\obj\Debug\_11.NumbersInIntervalDividableBy5.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\11. NumbersInIntervalDividableBy5\obj\Debug\_11.NumbersInIntervalDividableBy5.pdb

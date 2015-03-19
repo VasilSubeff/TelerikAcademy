@@ -1,0 +1,5 @@
+D:\Dropbox\C#\TextFiles\TextFiles\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe.config
+D:\Dropbox\C#\TextFiles\TextFiles\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe
+D:\Dropbox\C#\TextFiles\TextFiles\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.pdb
+D:\Dropbox\C#\TextFiles\TextFiles\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.exe
+D:\Dropbox\C#\TextFiles\TextFiles\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.pdb

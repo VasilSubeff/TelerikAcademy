@@ -1,0 +1,5 @@
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\04. CompareNumbers\bin\Debug\_04.CompareNumbers.exe.config
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\04. CompareNumbers\bin\Debug\_04.CompareNumbers.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\04. CompareNumbers\bin\Debug\_04.CompareNumbers.pdb
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\04. CompareNumbers\obj\Debug\_04.CompareNumbers.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\04. CompareNumbers\obj\Debug\_04.CompareNumbers.pdb

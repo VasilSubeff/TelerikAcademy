@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\23. Series of letters\bin\Debug\_23.Series_of_letters.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\23. Series of letters\obj\Debug\23. Series of letters.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\23. Series of letters\bin\Debug\_23.Series_of_letters.exe
+D:\Dropbox\C#\StringsAndTextProcessing\23. Series of letters\bin\Debug\_23.Series_of_letters.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\23. Series of letters\obj\Debug\_23.Series_of_letters.exe
+D:\Dropbox\C#\StringsAndTextProcessing\23. Series of letters\obj\Debug\_23.Series_of_letters.pdb

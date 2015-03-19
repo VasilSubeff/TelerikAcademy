@@ -1,0 +1,6 @@
+D:\Dropbox\C#\StringsAndTextProcessing\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe.config
+D:\Dropbox\C#\StringsAndTextProcessing\18. Extract e-mails\obj\Debug\18. Extract e-mails.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\StringsAndTextProcessing\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe
+D:\Dropbox\C#\StringsAndTextProcessing\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.pdb
+D:\Dropbox\C#\StringsAndTextProcessing\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.exe
+D:\Dropbox\C#\StringsAndTextProcessing\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.pdb

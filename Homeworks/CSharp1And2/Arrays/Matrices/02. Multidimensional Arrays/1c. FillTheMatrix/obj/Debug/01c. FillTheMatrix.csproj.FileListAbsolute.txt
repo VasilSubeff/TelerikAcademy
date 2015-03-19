@@ -1,0 +1,3 @@
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\1c. FillTheMatrix\bin\Debug\_1c.FillTheMatrix.exe.config
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\1c. FillTheMatrix\obj\Debug\_1c.FillTheMatrix.exe
+D:\Dropbox\C#\Arrays\Matrices\01. Multidimensional Arrays\1c. FillTheMatrix\obj\Debug\_1c.FillTheMatrix.pdb

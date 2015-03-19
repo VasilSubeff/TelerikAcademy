@@ -1,0 +1,6 @@
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\03. Matrix\bin\Debug\_03.Matrix.exe.config
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\03. Matrix\bin\Debug\_03.Matrix.exe
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\03. Matrix\bin\Debug\_03.Matrix.pdb
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\03. Matrix\obj\Debug\03. Matrix.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\03. Matrix\obj\Debug\_03.Matrix.exe
+D:\Dropbox\TelerikAcademy\OOP\OOP pt2\Defining Classes - Part 2\03. Matrix\obj\Debug\_03.Matrix.pdb

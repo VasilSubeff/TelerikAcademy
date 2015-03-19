@@ -1,0 +1,5 @@
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\02. PrintCompanyInfo\bin\Debug\_02.PrintCompanyInfo.exe.config
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\02. PrintCompanyInfo\bin\Debug\_02.PrintCompanyInfo.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\02. PrintCompanyInfo\bin\Debug\_02.PrintCompanyInfo.pdb
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\02. PrintCompanyInfo\obj\Debug\_02.PrintCompanyInfo.exe
+C:\Users\vasil.sabev\Desktop\Console Input\ Output\04. ConsoleInputOutput\02. PrintCompanyInfo\obj\Debug\_02.PrintCompanyInfo.pdb

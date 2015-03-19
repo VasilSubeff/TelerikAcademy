@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Loops\06. Loops\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.exe.config
+D:\Dropbox\C#\Loops\06. Loops\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.pdb
+D:\Dropbox\C#\Loops\06. Loops\14. DecimalToBinaryNumber\obj\Debug\_14.DecimalToBinaryNumber.exe
+D:\Dropbox\C#\Loops\06. Loops\14. DecimalToBinaryNumber\obj\Debug\_14.DecimalToBinaryNumber.pdb
+D:\Dropbox\C#\Loops\06. Loops\14. DecimalToBinaryNumber\obj\Debug\14. DecimalToBinaryNumber.csprojResolveAssemblyReference.cache

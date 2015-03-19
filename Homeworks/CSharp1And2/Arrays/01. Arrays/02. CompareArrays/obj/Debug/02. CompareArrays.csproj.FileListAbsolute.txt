@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Arrays\01. Arrays\02. CompareArrays\bin\Debug\_02.CompareArrays.exe.config
+D:\Dropbox\C#\Arrays\01. Arrays\02. CompareArrays\bin\Debug\_02.CompareArrays.exe
+D:\Dropbox\C#\Arrays\01. Arrays\02. CompareArrays\bin\Debug\_02.CompareArrays.pdb
+D:\Dropbox\C#\Arrays\01. Arrays\02. CompareArrays\obj\Debug\_02.CompareArrays.exe
+D:\Dropbox\C#\Arrays\01. Arrays\02. CompareArrays\obj\Debug\_02.CompareArrays.pdb

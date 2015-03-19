@@ -1,0 +1,5 @@
+D:\Dropbox\C#\ExceptionHandling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe.config
+D:\Dropbox\C#\ExceptionHandling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe
+D:\Dropbox\C#\ExceptionHandling\02. Enter numbers\bin\Debug\_02.Enter_numbers.pdb
+D:\Dropbox\C#\ExceptionHandling\02. Enter numbers\obj\Debug\_02.Enter_numbers.exe
+D:\Dropbox\C#\ExceptionHandling\02. Enter numbers\obj\Debug\_02.Enter_numbers.pdb

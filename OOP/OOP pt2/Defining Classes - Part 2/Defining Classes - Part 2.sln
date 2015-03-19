@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Structure", "01. Structure\01. Structure.csproj", "{E8550179-5345-4063-8215-4E4ED151BC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. GenericList", "02. GenericList\02. GenericList.csproj", "{8C770576-A9A7-42E0-BF70-041A00171ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Matrix", "03. Matrix\03. Matrix.csproj", "{E38EA8CA-F984-468A-93D9-A319A2341504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8550179-5345-4063-8215-4E4ED151BC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8550179-5345-4063-8215-4E4ED151BC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8550179-5345-4063-8215-4E4ED151BC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8550179-5345-4063-8215-4E4ED151BC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C770576-A9A7-42E0-BF70-041A00171ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C770576-A9A7-42E0-BF70-041A00171ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C770576-A9A7-42E0-BF70-041A00171ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C770576-A9A7-42E0-BF70-041A00171ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38EA8CA-F984-468A-93D9-A319A2341504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38EA8CA-F984-468A-93D9-A319A2341504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38EA8CA-F984-468A-93D9-A319A2341504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38EA8CA-F984-468A-93D9-A319A2341504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

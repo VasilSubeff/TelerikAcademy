@@ -1,0 +1,5 @@
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\17. Breakpoint\bin\Debug\_17.Breakpoint.exe.config
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\17. Breakpoint\bin\Debug\_17.Breakpoint.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\17. Breakpoint\bin\Debug\_17.Breakpoint.pdb
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\17. Breakpoint\obj\Debug\_17.Breakpoint.exe
+C:\Users\kalbanov\Desktop\backo\c# 1\01. Intro to Programming\04. HelloCSharp\17. Breakpoint\obj\Debug\_17.Breakpoint.pdb

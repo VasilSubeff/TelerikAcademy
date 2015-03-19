@@ -1,0 +1,5 @@
+D:\Dropbox\C#\Loops\06. Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe.config
+D:\Dropbox\C#\Loops\06. Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
+D:\Dropbox\C#\Loops\06. Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
+D:\Dropbox\C#\Loops\06. Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
+D:\Dropbox\C#\Loops\06. Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb

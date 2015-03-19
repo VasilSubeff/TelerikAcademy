@@ -1,0 +1,5 @@
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\08. PrimeNumber\bin\Debug\_08.PrimeNumber.exe.config
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\08. PrimeNumber\bin\Debug\_08.PrimeNumber.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\08. PrimeNumber\bin\Debug\_08.PrimeNumber.pdb
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\08. PrimeNumber\obj\Debug\_08.PrimeNumber.exe
+C:\Users\vasil.sabev\Desktop\Operators and Expressions\3. Operators and Expressions\08. PrimeNumber\obj\Debug\_08.PrimeNumber.pdb

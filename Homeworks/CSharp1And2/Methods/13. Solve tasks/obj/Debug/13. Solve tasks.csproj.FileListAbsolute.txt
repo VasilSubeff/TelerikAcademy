@@ -1,0 +1,6 @@
+D:\Dropbox\C#\Methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.exe.config
+D:\Dropbox\C#\Methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.exe
+D:\Dropbox\C#\Methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.pdb
+D:\Dropbox\C#\Methods\13. Solve tasks\obj\Debug\13. Solve tasks.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Methods\13. Solve tasks\obj\Debug\_13.Solve_tasks.exe
+D:\Dropbox\C#\Methods\13. Solve tasks\obj\Debug\_13.Solve_tasks.pdb
