@@ -1,0 +1,6 @@
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\6. DivisibleBy3And7\bin\Debug\_6.DivisibleBy3And7.exe.config
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\6. DivisibleBy3And7\obj\Debug\_6.DivisibleBy3And7.exe
+C:\Users\Mimi\Desktop\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\6. DivisibleBy3And7\obj\Debug\_6.DivisibleBy3And7.pdb
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\6. DivisibleBy3And7\bin\Debug\_6.DivisibleBy3And7.exe.config
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\6. DivisibleBy3And7\obj\Debug\_6.DivisibleBy3And7.exe
+D:\Dropbox\TelerikAcademy\OOP\Lesson 3\Extension-Methods-Delegates-Lambda-LINQ\6. DivisibleBy3And7\obj\Debug\_6.DivisibleBy3And7.pdb

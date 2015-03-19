@@ -85,6 +85,15 @@ namespace StudentGroups
             Console.WriteLine("Task 16: Students in Math:");
             var studsInMath = students.GetStudentsIn(groups, "Mathematics");
             Print(studsInMath);
+            Console.WriteLine();
+
+            //task 18
+            Console.WriteLine("Task 18:");
+            students.GroupByGroupLINQ();
+
+            //task 19
+            Console.WriteLine("Task 19:");
+            students.GroupByGroupExtMethods();
         }
     }
 }

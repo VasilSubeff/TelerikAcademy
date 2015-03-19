@@ -92,5 +92,42 @@ namespace StudentGroups
 
             return studsInMath;
         }
+        public static void GroupByGroupLINQ(this IEnumerable<Student> students)
+        {
+            var groupedStudents =
+                from st in students
+                group st by st.GroupNumber into gr
+                select gr;
+
+            foreach (var group in groupedStudents)
+            {
+                Console.WriteLine("The students in group {0} are:", group.Key.ToString());
+
+                foreach (var stud in group)
+                {
+                    Console.WriteLine(stud.FirstName + " " + stud.LastName);
+                }
+
+                Console.WriteLine();
+            }
+            
+        }
+
+        public static void GroupByGroupExtMethods(this IEnumerable<Student> students)
+        {
+            var groupedStudents = students.GroupBy(x => x.GroupNumber);
+
+            foreach (var group in groupedStudents)
+            {
+                Console.WriteLine("The students in group {0} are:", group.Key.ToString());
+
+                foreach (var stud in group)
+                {
+                    Console.WriteLine(stud.FirstName + " " + stud.LastName);
+                }
+
+                Console.WriteLine();
+            }
+        }
     }
 }
